@@ -1,11 +1,11 @@
 title: Tobias Grott
 description: My Personal Blog
 author: Tobias Grott
-logo: /static/img/avatar.png
+logo: /blog/static/img/avatar.png
 github: https://github.com/tobiasgrott
 
 baseurl: ""
-url: "https://localhost:4000/"
+url: "https://tobiasgrott.github.io/blog"
 
 disqus_shortname: tobiasgrott
 google_analytics: UA-72862926-1
