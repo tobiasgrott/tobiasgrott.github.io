@@ -1,1 +1,17 @@
+title: Tobis Blog
+email: tobiasgrott@gmail.com
+description: > 
+ Blog of Tobias Grott to document thoughts, news and information about tech and non tech topics to 
+ get insights into past decisions why those decisions were taken.
+baseurl: "/blog"
+url: "https://tobiasgrott.github.io"
+twitter_username: tobiasgrott
+github_username: tobiasgrott
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman
+gems: jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
