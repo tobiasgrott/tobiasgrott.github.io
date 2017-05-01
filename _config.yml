@@ -16,7 +16,7 @@ share:
 
 
 enableTags: true
-tagarray: []
+tagarray: [spring,code-style]
 
 paginate: 20
 per_page: 20
