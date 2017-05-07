@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Spring asserts"
+title:  "Spring Asserts"
 date:   2017-04-28 00:00:00 +0200
-categories:  spring
-tags: [spring, error-handling, code-style, java]
+categories:  [Spring, Java, Error Handling, Code Style]
 ---
 Everywhere there is stated that `do not ever trust user input` but when you create a library the methods should also be aware of the inputvalues.
 

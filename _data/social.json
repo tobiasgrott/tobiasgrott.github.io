@@ -1,18 +1,22 @@
 [
   {
     "icon": "fa-facebook",
-    "link": ""
+    "link": "https://www.facebook.com/tobias.grott"
   },
   {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/tobiasgrott"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://www.linkedin.com/in/tobias-grott-87760315/"
   },
   {
     "icon": "fa-stack-exchange",
     "link": ""
+  },
+  {
+    "icon": "fa-google-plus",
+    "link": "https://plus.google.com/108730466267134162379"
   }
 ]
