@@ -4,6 +4,7 @@ services:
   jekyll:
     image: jekyll/builder:latest
     #command: bundle install
+    #command: bundle update
     command: jekyll serve --watch --force_polling --trace
     ports:
       - 4000:4000
