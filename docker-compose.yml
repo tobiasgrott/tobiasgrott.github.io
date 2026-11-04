@@ -1,10 +1,12 @@
 services:
   jekyll:
     image: jekyll/builder:latest
-    #command: bundle install
-    #command: bundle update
-    command: jekyll serve --watch --force_polling --trace
+    command: sh -c "bundle update && bundle install&& bundle exec jekyll serve --watch --force_polling --trace"
     ports:
       - 4000:4000
     volumes:
       - .:/srv/jekyll
+      - bundle-cache:/usr/local/bundle
+
+volumes:
+  bundle-cache:
